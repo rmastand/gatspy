@@ -38,8 +38,8 @@ AUTHOR = "Jake VanderPlas"
 AUTHOR_EMAIL = "jakevdp@uw.edu"
 MAINTAINER = "Jake VanderPlas"
 MAINTAINER_EMAIL = "jakevdp@uw.edu"
-URL = 'http://github.com/astroml/gatspy'
-DOWNLOAD_URL = 'http://github.com/astroml/gatspy'
+URL = 'http://github.com/rmastand/gatspy'
+DOWNLOAD_URL = 'http://github.com/rmastand/gatspy'
 LICENSE = 'BSD 3-clause'
 
 VERSION = version('gatspy/__init__.py')

@@ -22,7 +22,7 @@ except ImportError:
     from io import BytesIO
 
 
-SESAR_RRLYRAE_URL = 'http://www.mpia.de/~bsesar/S82_RRLyr/'
+SESAR_RRLYRAE_URL = 'http://www.astro.caltech.edu/~bsesar/S82_RRLyr/'
 
 
 def _get_download_or_cache(filename, data_home=None,
